@@ -201,7 +201,7 @@ image_url = response.data[0].url
 
 **Full Documentation for Python API**
 
-- New AsyncClient API from G4F: [/docs/async_client](https://github.com/xtekky/gpt4free/blob/main/docs/async_client.md)
+- New AsyncClienhht API from G4F: [/docs/async_client](https://github.com/xtekky/gpt4free/blob/main/docs/async_client.md)
 - Client API like the OpenAI Python library: [/docs/client](https://github.com/xtekky/gpt4free/blob/main/docs/client.md)
 - Legacy API with python modules: [/docs/legacy](https://github.com/xtekky/gpt4free/blob/main/docs/legacy.md)
 
